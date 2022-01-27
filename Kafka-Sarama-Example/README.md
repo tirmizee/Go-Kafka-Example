@@ -1,0 +1,2 @@
+- go mod init kafkasarama
+- go get github.com/Shopify/sarama
